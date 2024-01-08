@@ -1,0 +1,16 @@
+{
+  "name": "siliconDiffusion",
+  "description": "Harness the power of CoreML and Stable Diffusion",
+  "technologies": ["Swift", "CoreML", "Stable Diffusion"],
+  "platforms": ["macOS", "iOS"],
+  "features": {
+    "Intuitive Interface": "A user-friendly interface that simplifies the process of creating images with Stable Diffusion technology.",
+    "High-Performance Image Generation": "Leverage the power of CoreML for fast and efficient image generation on Apple devices.",
+    "Customization Options": "Personalize the image generation process with various settings and preferences.",
+    "Cross-Platform Compatibility": "Enjoy a consistent experience on both macOS and iOS devices.",
+    "Gallery and Sharing": "Easily save and share your generated images with a built-in gallery and sharing options."
+  },
+  "status": "In Development",
+  "currentVersion": "0.1.0",
+  "homepage": "https://silicondiffusion.joshgrzech.com"
+}
