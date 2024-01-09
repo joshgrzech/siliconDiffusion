@@ -1,8 +1,8 @@
 {
   "name": "siliconDiffusion",
   "description": "Harness the power of CoreML and Stable Diffusion",
-  "technologies": ["Swift", "CoreML", "Stable Diffusion"],
-  "platforms": ["macOS", "iOS"],
+  "technologies": ["swift", "coreml", "stablediffusion"],
+  "platforms": ["macos", "ios"],
   "features": {
     "Intuitive Interface": "A user-friendly interface that simplifies the process of creating images with Stable Diffusion technology.",
     "High-Performance Image Generation": "Leverage the power of CoreML for fast and efficient image generation on Apple devices.",
